@@ -1,5 +1,12 @@
 # 📚 Pustak Mitra – Class 10 Study Hub
 
+
+<p align="center">
+  <a href="https://books.codenextlab.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Live%20Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/ width="200" height="150">
+  </a>
+</p>
+
 Pustak Mitra is a free online platform designed to provide **Class 10 Odisha Board students** with all essential study materials in one place.  
 It includes **Books, Syllabus, Model Papers, and Sample Papers** with a mobile-friendly responsive design.
 
