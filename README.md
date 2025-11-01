@@ -50,8 +50,6 @@ It includes **Books, Syllabus, Model Papers, and Sample Papers** with a mobile-f
 ## 📸 Preview:
 https://github.com/user-attachments/assets/937db1d5-83ed-4c63-aa97-4da76ca66ed6
 
-## Live Preview:
-https://pustakmitra.codenextlab.com
 
 ## 📩 Contact
 
